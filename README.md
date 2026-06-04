@@ -20,9 +20,10 @@
 
 🎓 M.Sc. in **Business Intelligence** (Cheikh Anta Diop University, Senegal). I build end-to-end data solutions: from ETL to predictive models and decision dashboards.
 
+- 💼 **3+ ans d'expérience** chez **Sonatel** : pipelines ETL (SSIS), dashboards Power BI, automatisation du reporting et suivi des KPI réseau.
 - 🔭 Centres d'intérêt : *Machine Learning, prévision de séries temporelles, Business Intelligence, dashboards.*
 - 🌍 Basé à Dakar, Sénégal — ouvert aux opportunités (sur site &amp; remote).
-- 📫 Contact : **sallcheikh1969@gmail.com**
+- 📫 Contact : **sall1969@outlook.fr** · 📱 +221 77 245 62 22
 
 ---
 
