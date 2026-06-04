@@ -1,5 +1,5 @@
 <h1 align="center">Cheikh Sall</h1>
-<h3 align="center">📊 Data Scientist &amp; Business Intelligence Analyst</h3>
+<h3 align="center">📊 Data Analyst | Business Intelligence Engineer</h3>
 
 <p align="center">
   <em>Je transforme les données en décisions — Machine Learning, prévision &amp; tableaux de bord.</em><br/>
