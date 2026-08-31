@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kheuch1492.github.io"><img src="https://img.shields.io/badge/Portfolio-1f4e79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://sallcheikh1492.github.io"><img src="https://img.shields.io/badge/Portfolio-1f4e79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:sall1969@outlook.fr"><img src="https://img.shields.io/badge/Email-e67e22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/cheikh-sall-bi"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
@@ -46,19 +46,19 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🎓 [**Mémoire BI &amp; ML — Centres d'appels**](https://github.com/kheuch1492/memoire-master2-bi-ucad) | Prévision du volume (SARIMA/LSTM), prédiction de l'abandon (XGBoost + SHAP), survie (Kaplan-Meier/Cox) &amp; dimensionnement Erlang sur ~444k appels. | `Python` `Streamlit` `XGBoost` `SHAP` |
-| 📉 [**Customer Churn Prediction**](https://github.com/kheuch1492/customer-churn-prediction) | Prédiction du départ client (Telco) — Gradient Boosting, ROC-AUC 0,844, dashboard Power BI. | `Python` `ML` `Power BI` |
-| 💹 [**Financial Analysis Dashboard**](https://github.com/kheuch1492/financial-analysis-dashboard) | Analyse financière : KPI, compte de résultat, prévisions &amp; dashboard. | `Python` `SQL` `Power BI` |
-| 👥 [**HR Analytics Dashboard**](https://github.com/kheuch1492/hr-analytics-dashboard) | People Analytics : turnover, absentéisme, profils à risque. | `Python` `PostgreSQL` `DAX` |
-| 🛒 [**E-commerce Sales Analysis**](https://github.com/kheuch1492/ecommerce-sales-analysis) | Analyse BI complète des ventes e-commerce. | `BI` `Analyse` |
+| 🎓 [**Mémoire BI &amp; ML — Centres d'appels**](https://github.com/sallcheikh1492/memoire-master2-bi-ucad) | Prévision du volume (SARIMA/LSTM), prédiction de l'abandon (XGBoost + SHAP), survie (Kaplan-Meier/Cox) &amp; dimensionnement Erlang sur ~444k appels. | `Python` `Streamlit` `XGBoost` `SHAP` |
+| 📉 [**Customer Churn Prediction**](https://github.com/sallcheikh1492/customer-churn-prediction) | Prédiction du départ client (Telco) — Gradient Boosting, ROC-AUC 0,844, dashboard Power BI. | `Python` `ML` `Power BI` |
+| 💹 [**Financial Analysis Dashboard**](https://github.com/sallcheikh1492/financial-analysis-dashboard) | Analyse financière : KPI, compte de résultat, prévisions &amp; dashboard. | `Python` `SQL` `Power BI` |
+| 👥 [**HR Analytics Dashboard**](https://github.com/sallcheikh1492/hr-analytics-dashboard) | People Analytics : turnover, absentéisme, profils à risque. | `Python` `PostgreSQL` `DAX` |
+| 🛒 [**E-commerce Sales Analysis**](https://github.com/sallcheikh1492/ecommerce-sales-analysis) | Analyse BI complète des ventes e-commerce. | `BI` `Analyse` |
 
 ---
 
 ### 📈 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kheuch1492&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheuch1492&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sallcheikh1492&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallcheikh1492&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center"><em>« Sans données, vous n'êtes qu'une personne avec une opinion. » — W. E. Deming</em></p>
