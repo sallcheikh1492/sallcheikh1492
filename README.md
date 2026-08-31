@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://sallcheikh1492.github.io"><img src="https://img.shields.io/badge/Portfolio-1f4e79?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:sall1969@outlook.fr"><img src="https://img.shields.io/badge/Email-e67e22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/cheikh-sall-bi"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/cheikh-sall-bi/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
